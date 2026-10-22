@@ -1,0 +1,90 @@
+# Technical Skills
+Python
+JavaScript
+TypeScript
+Java
+C++
+C#
+R
+SQL
+HTML
+CSS
+React
+Angular
+Vue.js
+Node.js
+Django
+Flask
+FastAPI
+Spring Boot
+Express.js
+REST API
+GraphQL
+Machine Learning
+Deep Learning
+Natural Language Processing
+Computer Vision
+Data Analysis
+Data Visualization
+TensorFlow
+PyTorch
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+Tableau
+Power BI
+Docker
+Kubernetes
+AWS
+Azure
+Google Cloud Platform
+CI/CD
+Git
+GitHub
+Linux
+Bash
+MongoDB
+PostgreSQL
+MySQL
+Redis
+Elasticsearch
+Spark
+Hadoop
+Kafka
+
+# Soft Skills
+Communication
+Leadership
+Teamwork
+Problem Solving
+Critical Thinking
+Time Management
+Adaptability
+Creativity
+Attention to Detail
+Project Management
+Collaboration
+Mentoring
+Presentation Skills
+Conflict Resolution
+Decision Making
+Analytical Thinking
+Emotional Intelligence
+Negotiation
+
+# Certifications & Tools
+AWS Certified
+Google Certified
+Microsoft Certified
+PMP
+Agile
+Scrum
+JIRA
+Confluence
+Figma
+Photoshop
+Postman
+VS Code
+IntelliJ
+Jupyter Notebook
